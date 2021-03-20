@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 import coil.load
 import coil.transform.RoundedCornersTransformation
 import com.mandarine.watchnow.R
-import com.mandarine.watchnow.data.Actor
+import com.mandarine.watchnow.data.model.Actor
 
 class CastAdapter : RecyclerView.Adapter<CastAdapter.CastViewHolder>() {
 

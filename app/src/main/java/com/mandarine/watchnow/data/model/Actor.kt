@@ -1,4 +1,4 @@
-package com.mandarine.watchnow.data
+package com.mandarine.watchnow.data.model
 
 data class Actor(
     val name: String,

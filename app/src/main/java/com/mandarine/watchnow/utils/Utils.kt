@@ -1,4 +1,4 @@
-package com.mandarine.watchnow
+package com.mandarine.watchnow.utils
 
 import android.content.Context
 import android.graphics.Point
